@@ -8,7 +8,7 @@ this is a client I used to dev with DemoDev (who is currently scamming people fo
 
 I left becuz Demo doesn't know shit about Java and only skidded random shit from github and source leaks.
 
-here you will find very autistic skidded code, including a completely skidded Wrapper from Fan client, SpicyClient notifications, sb27 scripting system, spicy client modules, intents event system, intent main menu, and more cancerous dogshit.
+here you will find very autistic skidded code, including a completely skidded Wrapper from Fan client (a lot of stuff is from fan client lol), sebsb clickgui, SpicyClient notifications, sb27 scripting system, spicy client modules, intents event system, intent main menu, and more cancerous dogshit.
 
 if you came here to skid, keep in mind this is the worst possible source leak to skid from.
 
