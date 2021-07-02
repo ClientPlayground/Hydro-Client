@@ -12,4 +12,6 @@ here you will find very autistic skidded code, including a completely skidded Wr
 
 if you came here to skid, keep in mind this is the worst possible source leak to skid from.
 
+And no, I never skidded or wrote any meaningful code for this shit client.
+
 
