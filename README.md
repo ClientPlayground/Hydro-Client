@@ -15,3 +15,7 @@ if you came here to skid, keep in mind this is the worst possible source leak to
 And no, I never skidded or wrote any meaningful code for this shit client.
 
 
+edit:
+
+he's coping so hard that he said I ratted him (with no proof, whatsoever)
+
